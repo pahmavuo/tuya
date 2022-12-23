@@ -19,6 +19,10 @@ You will find it there : [https://github.com/py60800/tinytuya](https://github.co
 ## Acknowledgements
 @codetheweb for reverse engineering the protocol
 
+@py60800 for the original API implementation
+
+@Blaok for adding support for multiple DPS
+
 ## Prerequisites
 
 Collect the keys and the id of tuya devices according to [@Codetheweb method](https://github.com/codetheweb/tuyapi/blob/master/docs/SETUP.md)
